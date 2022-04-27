@@ -134,18 +134,8 @@ We evaluate the performance of the best model(trained with SSIM and MSE using Re
 |KTH        | 0.043 | 0.179  |  14.373 |  0.77   | 0.239        
 
 
-       
-<!-- CONTACT -->
-
-## Contact
-Sugan Kanagasenthinathan - s6sukana@uni-bonn.de
 
 
-
-
-
-
-Project Link: [https://github.com/here-to-learn0/Video_frame_prediction](https://github.com/here-to-learn0/Video_frame_prediction)
 
 
 ## Acknowledgments
