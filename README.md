@@ -124,7 +124,7 @@ The architecture of the model is shown below. First, all 10 gt frames are inputt
 
 ## Results
 
-Detailed results and inferences are available in report [here](./docs/report.pdf).
+
 
 We evaluate the performance of the best model(trained with SSIM and MSE using ReduceLROnPlateau Schedular with LR warmup) on MovingMNIST and KTH dataset. The quantitative results of our model performance for both the datasets is given below.
 
