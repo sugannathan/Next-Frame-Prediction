@@ -13,7 +13,7 @@
     <br />
     <a href=https://github.com/here-to-learn0/Video_frame_prediction><strong>Explore the repository»</strong></a>
     <br />
-    <a href=https://github.com/here-to-learn0/Video_frame_prediction/blob/master/docs/report.pdf>View Report</a>
+   
   </p>
 
 </p>
