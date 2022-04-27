@@ -140,11 +140,6 @@ We evaluate the performance of the best model(trained with SSIM and MSE using Re
 ## Contact
 Sugan Kanagasenthinathan - s6sukana@uni-bonn.de
 
-Vardeep Singh Sandhu - s7vasand@uni-bonn.de
-
-
-Aysha Athar Siddiqui - s6aysidd@uni-bonn.de
-
 
 
 
